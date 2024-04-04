@@ -1,0 +1,4 @@
+Hemos añadido una frase para provar el git rm --cached
+esto sirve para quitar cualquier archivo del staging area y poder modificarlo sin cambiar de versión
+
+probamos a hacer un commit y un add a la vez
